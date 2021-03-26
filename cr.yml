@@ -9,11 +9,16 @@ spec:
     name: 'eng2046'
     description: eng2046 bundle
     dist-tags:
-      latest: v0.0.1
+      latest: v0.0.2
     versions:
       - v0.0.1
+      - v0.0.2
   tags:
     - version: v0.0.1
+      shasum: bdd0fa89ac098fa8fbaf0cd1b664ff2a26ba7a59
+      integrity: bdd0fa89ac098fa8fbaf0cd1b664ff2a26ba7a59
+      tarball: 'https://github.com/firegloves-bundles/eng2046.git'
+    - version: v0.0.2
       shasum: bdd0fa89ac098fa8fbaf0cd1b664ff2a26ba7a59
       integrity: bdd0fa89ac098fa8fbaf0cd1b664ff2a26ba7a59
       tarball: 'https://github.com/firegloves-bundles/eng2046.git'
