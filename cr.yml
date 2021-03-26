@@ -1,0 +1,19 @@
+apiVersion: entando.org/v1
+kind: EntandoDeBundle
+metadata:
+  name: 'eng2046'
+  labels:
+    bundle-type: not-existing
+spec:
+  details:
+    name: 'eng2046'
+    description: eng2046 bundle
+    dist-tags:
+      latest: v0.0.1
+    versions:
+      - v0.0.1
+  tags:
+    - version: v0.0.1
+      shasum: bdd0fa89ac098fa8fbaf0cd1b664ff2a26ba7a59
+      integrity: bdd0fa89ac098fa8fbaf0cd1b664ff2a26ba7a59
+      tarball: 'https://github.com/firegloves-bundles/eng2046.git'
