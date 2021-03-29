@@ -111,6 +111,7 @@ components:
     - contents/nws4-descriptor.yaml
     - contents/nws5-descriptor.yaml
     - contents/tcl6-descriptor.yaml
+    - contents/bnr7-descriptor.yaml
   plugins: []
   categories:
     - categories/categories-descriptor.yaml
