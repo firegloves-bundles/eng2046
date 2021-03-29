@@ -22,3 +22,8 @@ spec:
       shasum: bdd0fa89ac098fa8fbaf0cd1b664ff2a26ba7a59
       integrity: bdd0fa89ac098fa8fbaf0cd1b664ff2a26ba7a59
       tarball: 'https://github.com/firegloves-bundles/eng2046.git'
+    - version: v0.0.3
+      description: 'extracted from local'
+      shasum: bdd0fa89ac098fa8fbaf0cd1b664ff2a26ba7a59
+      integrity: bdd0fa89ac098fa8fbaf0cd1b664ff2a26ba7a59
+      tarball: 'https://github.com/firegloves-bundles/eng2046.git'

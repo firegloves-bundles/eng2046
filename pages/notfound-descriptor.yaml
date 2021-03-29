@@ -3,7 +3,7 @@ parentCode: service
 titles:
   en: Page not found
   it: Pagina non trovata
-pageModel: service
+pageModel: single_frame_page
 ownerGroup: free
 joinGroups: []
 displayedInMenu: true

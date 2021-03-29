@@ -1,25 +1,10 @@
-- code: benefits
+- code: my_cat
   parentCode: home
   titles:
-    en: Benefits
-    it: Benefits
-- code: customer_service
+    en: my-cat
+    it: cattona
+- code: my_cat_2
   parentCode: home
   titles:
-    en: Customer service
-    it: Customer service
-- code: my_product
-  parentCode: home
-  titles:
-    en: My Product
-    it: My Product
-- code: news
-  parentCode: home
-  titles:
-    en: News
-    it: News
-- code: products
-  parentCode: home
-  titles:
-    en: Products
-    it: Products
+    en: my-cat-2
+    it: cattona-2

@@ -26,6 +26,18 @@
   titles:
     en: Category
     it: Categoria
+- key: CNG_ATTACHMENTS
+  titles:
+    en: Attachments
+    it: Allegati
+- key: CNG_LINKS
+  titles:
+    en: Links
+    it: Link
+- key: CNG_READ_MORE
+  titles:
+    en: View details
+    it: Continua
 - key: DATE_FROM
   titles:
     en: From
@@ -38,14 +50,6 @@
   titles:
     en: Edit
     it: Modifica
-- key: ELSF_MANAGE_USERS
-  titles:
-    en: Manage Users
-    it: Gestione Utenti
-- key: ELSF_SUBSITE
-  titles:
-    en: Subsite
-    it: Subsite
 - key: ENTANDO_API_DESCRIPTION
   titles:
     en: Description
@@ -218,26 +222,14 @@
   titles:
     en: Whoops! You're doing it wrong!
     it: Oops! Hai sbagliato qualcosa!
-- key: ESLC_LANGUAGE
-  titles:
-    en: Language
-    it: Lingua
-- key: ESLC_LANG_en
-  titles:
-    en: English
-    it: Inglese
-- key: ESLC_LANG_it
-  titles:
-    en: Italian
-    it: Italiano
-- key: ESLF_ADMINISTRATION
-  titles:
-    en: Administration
-    it: Administration
 - key: ESLF_PASSWORD
   titles:
     en: Password
     it: Password
+- key: ESLF_PROFILE_CONFIGURATION
+  titles:
+    en: Profile Configuration
+    it: Configurazione Profilo
 - key: ESLF_SIGNIN
   titles:
     en: Log in
@@ -270,14 +262,18 @@
   titles:
     en: Generic Error
     it: Errore Generico
-- key: GO_SEED_BANK
-  titles:
-    en: GO TO SEED BANK
-    it: TORNA A SEED BANK
 - key: IGNORE
   titles:
     en: Ignore
     it: Ignora
+- key: LANG_EN
+  titles:
+    en: English
+    it: Inglese
+- key: LANG_IT
+  titles:
+    en: Italian
+    it: Italiano
 - key: LIST_VIEWER_EMPTY
   titles:
     en: No result found. Broaden your search and try again!
@@ -286,10 +282,6 @@
   titles:
     en: Logout
     it: Logout
-- key: MY_DASHBOARD
-  titles:
-    en: My dashboard
-    it: La mia Dashboard
 - key: 'NO'
   titles:
     en: 'No'
@@ -302,6 +294,18 @@
   titles:
     en: To
     it: A
+- key: NWS_ATTACHMENTS
+  titles:
+    en: Attachments
+    it: Allegati
+- key: NWS_LINKS
+  titles:
+    en: Links
+    it: Link
+- key: NWS_READ_MORE
+  titles:
+    en: View details
+    it: Continua
 - key: PAGE
   titles:
     en: page
@@ -332,7 +336,7 @@
     it: Avanti di
 - key: PAGE_MODEL
   titles:
-    en: page model
+    en: page template
     it: modello pagina
 - key: PAGE_NOT_FOUND
   titles:
@@ -346,10 +350,6 @@
   titles:
     en: Password
     it: Password
-- key: READ_MORE
-  titles:
-    en: Read More
-    it: Approfondisci
 - key: RESERVED_AREA
   titles:
     en: Please sign in
@@ -386,15 +386,15 @@
   titles:
     en: Sign in
     it: Entra
-- key: SIGN_UP
-  titles:
-    en: Sign Up
-    it: Registrati
 - key: TEXT
   titles:
     en: Text
     it: Testo
-- key: TEXT_PLACEHOLDER
+- key: USERNAME
   titles:
-    en: Title
-    it: Titolo
+    en: Username
+    it: Utente
+- key: USER_DATE_ACCESS_LAST
+  titles:
+    en: Last access
+    it: Ultimo accesso

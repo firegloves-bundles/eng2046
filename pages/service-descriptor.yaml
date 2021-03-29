@@ -3,7 +3,7 @@ parentCode: homepage
 titles:
   en: Service
   it: Pagine di Servizio
-pageModel: service
+pageModel: single_frame_page
 ownerGroup: free
 joinGroups: []
 displayedInMenu: false

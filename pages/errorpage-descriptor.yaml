@@ -3,7 +3,7 @@ parentCode: service
 titles:
   en: Error page
   it: Pagina di errore
-pageModel: service
+pageModel: single_frame_page
 ownerGroup: free
 joinGroups: []
 displayedInMenu: true
