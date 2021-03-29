@@ -3,12 +3,6 @@ description: eng2046 bundle
 bundle-type: system-level-bundle
 components:
   widgets:
-    - widgets/conference-details-widget-descriptor.yaml
-    - widgets/conference-form-widget-descriptor.yaml
-    - widgets/conference-table-widget-descriptor.yaml
-    - widgets/dog-details-widget-descriptor.yaml
-    - widgets/dog-form-widget-descriptor.yaml
-    - widgets/dog-table-widget-descriptor.yaml
     - widgets/search_form-descriptor.yaml
   pageModels:
     - pageModels/1-2-column-descriptor.yaml
@@ -117,9 +111,7 @@ components:
     - contents/nws4-descriptor.yaml
     - contents/nws5-descriptor.yaml
     - contents/tcl6-descriptor.yaml
-    - contents/bnr7-descriptor.yaml
-  plugins:
-    - plugins/lcorsettientando-xmasbundle-descriptor.yaml
+  plugins: []
   categories:
     - categories/categories-descriptor.yaml
   labels:

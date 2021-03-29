@@ -25,12 +25,12 @@ attributes:
     listelements: {}
   - code: link
     value:
+      symbolicDestination: '#!U;http://www.entando.com/!#'
       destType: 1
       urlDest: 'http://www.entando.com/'
       pageDest: null
       contentDest: null
       resourceDest: null
-      symbolicDestination: '#!U;http://www.entando.com/!#'
     values:
       en: Learn more at Entando.com
     elements: []
