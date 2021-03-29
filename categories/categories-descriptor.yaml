@@ -1,0 +1,10 @@
+- code: my_cat
+  parentCode: home
+  titles:
+    en: my-cat
+    it: cattona
+- code: my_cat_2
+  parentCode: home
+  titles:
+    en: my-cat-2
+    it: cattona-2
