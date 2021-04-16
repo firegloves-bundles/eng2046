@@ -1,10 +1,20 @@
-- code: my_cat
+- code: cat_1_en
   parentCode: home
   titles:
-    en: my-cat
-    it: cattona
+    en: cat-1-en
+    it: cat-1-it
 - code: my_cat_2
-  parentCode: home
+  parentCode: cat_1_en
   titles:
     en: my-cat-2
-    it: cattona-2
+    it: cat-2-it
+- code: cat_3_en
+  parentCode: my_cat_2
+  titles:
+    en: cat-3-en
+    it: cat-3-it
+- code: cat_4_en
+  parentCode: cat_3_en
+  titles:
+    en: cat-4-en
+    it: cat-4-it
